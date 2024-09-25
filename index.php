@@ -2,6 +2,8 @@
 
 include('./src/model/login.php');
 
+echo ("Hello World!");
+
 ?>
 
 <!DOCTYPE html>
